@@ -1,1 +1,1 @@
-# adinn
+This is a responsive front-end website built using HTML and CSS as part of a team project for a course assignment. The website is designed for a fictional advertising and marketing company and includes essential business sections with a clean layout and responsive structure.
